@@ -1,7 +1,7 @@
 # CMO Notes
 
 Lecture notes for the course 'Computational Methods of Optimization' (Aug-Dec 2019) at IISc,
-taught by [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). Scribed by Eklavya Sharma (<https://github.com/sharmaeklavya2>)
+taught by [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). Scribed by [Eklavya Sharma](https://github.com/sharmaeklavya2)
 
 Course website: <https://cmo2019.github.io/cmo2019/>
 
